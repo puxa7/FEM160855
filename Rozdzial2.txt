@@ -1,5 +1,3 @@
-Rozdzial2
-
 git config --global user.name mojlogin
 git config --global user.email adres@costam.pl
 
